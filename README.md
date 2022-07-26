@@ -1,2 +1,6 @@
-# itaivan_scrapper
-Project for alpha Imobiliaria
+# Propertys Crawler
+A project made for alpha Imobiliaria, its main goal is to map all the properties nearby Jaragua do sul, focusing on all types of properties, apartments, lands,
+commercial rooms and soo on
+
+
+<h2> How the Crawling project works ? <h2>
